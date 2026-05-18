@@ -2,10 +2,15 @@
 Somos estudantes da Fatec, cursando o  4º Semestre do curso de Gestão da Produção Industrial e aplicando os conhecimentos de forma prática com o auxílio de nossos mestres!
 
 **Índice**
+
 Equipe
+
 Objetivo
+
 Andamento das Sprints
+
 Tecnologias Utilizadas
+
 Autores
 
 **Equipe**
