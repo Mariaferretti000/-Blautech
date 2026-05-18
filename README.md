@@ -5,10 +5,7 @@ Somos estudantes da Fatec, cursando o  4º Semestre do curso de Gestão da Produ
 Equipe
 Objetivo
 Andamento das Sprints
-Backlog do Produto
-Burndown
 Tecnologias Utilizadas
-Competências Desenvolvidas
 Autores
 
 *Equipe*
@@ -22,11 +19,7 @@ Nós da Blautech temos como objetivo ser a principal melhorar o setor de acabame
 <img width="678" height="575" alt="image" src="https://github.com/user-attachments/assets/b80559fd-cffe-4214-81b9-579c9f494fdf" />
 
 
-Backlog do produto
-image
-
-Burndown
-image
+**Andamento das Sprints**
 
 Sprint 1 - NSM / VSD.
 <img width="1218" height="688" alt="image" src="https://github.com/user-attachments/assets/c207ba7a-765f-41cb-a757-79b2fe42fcb7" />
@@ -42,22 +35,7 @@ Sprint 3 - Layout e conclusão do projeto
 
 
 
-Tecnologias Utilizadas
-Produto
-
-Sprint 1
-
-Pesquisa Inicial, Análise Swot e Canva da Empresa.
-Sprint 2
-
-Sistema ERP
-Sprint 3
-
-Demanda Nacional e Internacional Anual
-Sprint 4
-
-Fluxo de Caixa Anual
-Tecnológias Específicas/Apoio
+**Tecnologias Utilizadas**
 
 Canva
 
@@ -71,14 +49,11 @@ Power BI
 
 Microsoft Teams
 
-Scrum
+AutoCAD
 
-Competências desenvolvidas
-Hard Skill (saber tecnológico)
-Hard Skills desenvolvidas
-Soft Skill (saber comportamental)
-Soft Skills desenvolvidas
-Autores
+
+
+**Autores**
 Função	Nome	LinkedIn & GitHub
 Product Owner	Fabricio	Linkedin Badge GitHub Badge
 Scrum Master	Maria Cecília	Linkedin Badge GitHub Badge
