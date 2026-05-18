@@ -8,14 +8,16 @@ Andamento das Sprints
 Tecnologias Utilizadas
 Autores
 
-*Equipe*
+**Equipe**
+
 <img width="1142" height="628" alt="image" src="https://github.com/user-attachments/assets/5bbf38ee-8547-481d-bc54-b895f927ab4e" />
 
 **Objetivo** 
+
 Nós da Blautech temos como objetivo ser a principal melhorar o setor de acabamento, Aplicando nossos conhecimentos adquiridos no curso para mostrar a nossa capacidade profissional ao mercado de trabalho, Dimensionar o estoque intermediário (WIP) para 1,5 dia, reduzindo os custos de armazenamento entre os processos.
 
-
 **CRONOGRAMA**
+
 <img width="678" height="575" alt="image" src="https://github.com/user-attachments/assets/b80559fd-cffe-4214-81b9-579c9f494fdf" />
 
 
@@ -55,8 +57,12 @@ AutoCAD
 
 **Autores**
 Função	Nome	LinkedIn & GitHub
+
 Product Owner	Fabricio	Linkedin Badge GitHub Badge
+
 Scrum Master	Maria Cecília	Linkedin Badge GitHub Badge
+
 Team Member	Mikaele	Linkedin Badge GitHub Badge
+
 Team Member	Ana Beatriz	Linkedin Badge GitHub Badge
 
