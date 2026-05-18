@@ -28,17 +28,19 @@ image
 Burndown
 image
 
-Sprint 1 - Pesquisa Inicial, Análise Swot e Canva da Empresa.
-image
+Sprint 1 - NSM / VSD.
+<img width="1218" height="688" alt="image" src="https://github.com/user-attachments/assets/c207ba7a-765f-41cb-a757-79b2fe42fcb7" />
 
-Sprint 2 - Sistema ERP
-image
+Sprint 2 - Dimensionamento do estoque
+<img width="1089" height="603" alt="image" src="https://github.com/user-attachments/assets/9f2bf4ec-9043-4727-b7e5-3771a5ec31c9" />
 
-Sprint 3 - Demanda Nacional e Internacional Anual
-image
 
-Sprint 4 - Fluxo de Caixa Anual
-image image
+Sprint 3 - Layout e conclusão do projeto 
+<img width="1099" height="617" alt="image" src="https://github.com/user-attachments/assets/69b164f9-0f47-4874-9851-b5352fe9aa36" />
+
+
+
+
 
 Tecnologias Utilizadas
 Produto
