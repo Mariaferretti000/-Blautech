@@ -1,8 +1,7 @@
 # -Blautech
-Matéria de Projeto do Produto para a empresa Freudenberg innovating together focando na parte de Acabamento 
+Somos estudantes da Fatec, cursando o  4º Semestre do curso de Gestão da Produção Industrial e aplicando os conhecimentos de forma prática com o auxílio de nossos mestres!
 
 Índice
-Projeto (API)
 Equipe
 Objetivo
 Andamento das Sprints
@@ -11,16 +10,12 @@ Burndown
 Tecnologias Utilizadas
 Competências Desenvolvidas
 Autores
-Projeto (API)
-Neste semestre estamos criando uma empresa fornecedora de celulares para todo Brasil.
-
-
 
 Equipe
 <img width="1142" height="628" alt="image" src="https://github.com/user-attachments/assets/5bbf38ee-8547-481d-bc54-b895f927ab4e" />
 
 Objetivo - Start Phone
-Nós da Start Phone temos como objetivo ser a principal fornecedora de celulares no mercado, oferecendo uma ampla gama de produtos e serviços que atendam às necessidades de nossos parceiros e consumidores, com excelência em atendimento, logística eficiente, preços acessiveis e suporte técnico.
+Nós da Blautech temos como objetivo ser a principal melhorar o setor de acabamento, Aplicando nossos conhecimentos adquiridos no curso para mostrar a nossa capacidade profissional ao mercado de trabalho, Dimensionar o estoque intermediário (WIP) para 1,5 dia, reduzindo os custos de armazenamento entre os processos.
 
 Andamento das Sprints
 CRONOGRAMA STARTPHONE
