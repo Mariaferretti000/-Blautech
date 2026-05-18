@@ -1,7 +1,7 @@
 # -Blautech
 Somos estudantes da Fatec, cursando o  4º Semestre do curso de Gestão da Produção Industrial e aplicando os conhecimentos de forma prática com o auxílio de nossos mestres!
 
-Índice
+*Índice*
 Equipe
 Objetivo
 Andamento das Sprints
@@ -11,14 +11,16 @@ Tecnologias Utilizadas
 Competências Desenvolvidas
 Autores
 
-Equipe
+*Equipe*
 <img width="1142" height="628" alt="image" src="https://github.com/user-attachments/assets/5bbf38ee-8547-481d-bc54-b895f927ab4e" />
 
-Objetivo - Start Phone
+*Objetivo* 
 Nós da Blautech temos como objetivo ser a principal melhorar o setor de acabamento, Aplicando nossos conhecimentos adquiridos no curso para mostrar a nossa capacidade profissional ao mercado de trabalho, Dimensionar o estoque intermediário (WIP) para 1,5 dia, reduzindo os custos de armazenamento entre os processos.
 
-Andamento das Sprints
-CRONOGRAMA STARTPHONE
+
+CRONOGRAMA
+<img width="678" height="575" alt="image" src="https://github.com/user-attachments/assets/b80559fd-cffe-4214-81b9-579c9f494fdf" />
+
 
 Backlog do produto
 image
