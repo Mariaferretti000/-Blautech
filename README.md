@@ -56,13 +56,11 @@ AutoCAD
 
 
 **Autores**
-Função	Nome	LinkedIn & GitHub
 
-Product Owner	Fabricio	Linkedin Badge GitHub Badge
-
-Scrum Master	Maria Cecília	Linkedin Badge GitHub Badge
-
-Team Member	Mikaele	Linkedin Badge GitHub Badge
-
-Team Member	Ana Beatriz	Linkedin Badge GitHub Badge
+| Função | Nome |  LinkedIn & GitHub |
+| - | - | - |
+|Product Owner| Fabricio | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Silveri0m)|
+|Scrum Master| Maria Cecília | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member|Ana Beatriz | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/migueljacintoo)|
+|Team Member| Mikaele | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Mariaferretti000)|
 
