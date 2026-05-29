@@ -36,7 +36,8 @@ Sprint 2 - Dimensionamento do estoque
 
 
 Sprint 3 - Layout e conclusão do projeto 
-<img width="1099" height="617" alt="image" src="https://github.com/user-attachments/assets/69b164f9-0f47-4874-9851-b5352fe9aa36" />
+<img width="1092" height="613" alt="{C3AF3238-62D5-4989-A35C-B9B8CBE9C492}" src="https://github.com/user-attachments/assets/f7f9a4d6-eace-4b27-95f2-37fb34eaa62e" />
+
 
 
 
