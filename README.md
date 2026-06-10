@@ -30,13 +30,16 @@ Nós da Blautech temos como objetivo ser a principal melhorar o setor de acabame
 
 Sprint 1 - NSM / VSD.
 <img width="1218" height="688" alt="image" src="https://github.com/user-attachments/assets/c207ba7a-765f-41cb-a757-79b2fe42fcb7" />
+https://www.youtube.com/watch?reload=9&si=xVQ2uUyjzehNm0w_&v=culWQ9sHnx4&feature=youtu.b
 
 Sprint 2 - Dimensionamento do estoque
 <img width="1089" height="603" alt="image" src="https://github.com/user-attachments/assets/9f2bf4ec-9043-4727-b7e5-3771a5ec31c9" />
+https://www.youtube.com/watch?v=m6jZVxbcSNQ
 
 
 Sprint 3 - Layout e conclusão do projeto 
 <img width="1092" height="613" alt="{C3AF3238-62D5-4989-A35C-B9B8CBE9C492}" src="https://github.com/user-attachments/assets/f7f9a4d6-eace-4b27-95f2-37fb34eaa62e" />
+https://www.youtube.com/watch?v=rshZ03p2Stg
 
 
 
