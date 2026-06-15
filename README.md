@@ -41,6 +41,11 @@ Sprint 3 - Layout e conclusão do projeto
 <img width="1092" height="613" alt="{C3AF3238-62D5-4989-A35C-B9B8CBE9C492}" src="https://github.com/user-attachments/assets/f7f9a4d6-eace-4b27-95f2-37fb34eaa62e" />
 https://www.youtube.com/watch?v=rshZ03p2Stg
 
+Feira de Soluções 
+<img width="1375" height="771" alt="{A6D479B8-2F54-4DD7-9049-DAA2E5B20843}" src="https://github.com/user-attachments/assets/42312840-e5d5-44a0-a257-06c309731346" />
+https://www.youtube.com/watch?v=zx1W079El1M
+
+
 
 
 
